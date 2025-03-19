@@ -9,7 +9,6 @@ set -x
 # nfvpe-08: 3c:fd:fe:ba:07:9c
 
 #workerNode=nfvpe-07
-
 workerNode=$1
 timeout=1800
 
